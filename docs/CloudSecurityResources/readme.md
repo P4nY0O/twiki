@@ -260,6 +260,8 @@ title: 云安全资源
 * 云原生之 Kubernetes 安全 [地址](https://forum.butian.net/share/1095)
 * RCE 进入内网接管 K8s 并逃逸进 xx 网 [地址](https://mp.weixin.qq.com/s/UvjKHaVzhluc22trF46uBA)
 * 从零开始的 Kubernetes 攻防 [地址](https://github.com/neargle/my-re0-k8s-security) ![GitHub stars](https://img.shields.io/github/stars/neargle/my-re0-k8s-security)
+* K8s集群安全攻防(上)[地址](https://xz.aliyun.com/t/12921)
+* K8s集群安全攻防(下)[地址](https://xz.aliyun.com/t/12930)
 
 **eBPF**
 
